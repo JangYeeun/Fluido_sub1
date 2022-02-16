@@ -71,6 +71,7 @@ ul{
     margin:26px 0;
     width: 25%;
     position: relative;
+    cursor: pointer;
     
 }
 .hover{
